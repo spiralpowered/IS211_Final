@@ -1,5 +1,5 @@
 
-# IS211 Final Project Option 2: Blog Application
+# Blog Application
 
 
 This app allows the user create their own blog posts and view the posts of other users. They can log in, log out, and register new accounts. When logged in, they are able to create, edit, and delete their own posts. The option to delete the post can be found by clicking the "edit" button.
